@@ -51,12 +51,8 @@ My transition into tech is driven by a deep interest in building robust digital 
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846.svg?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JWT](https://img.shields.io/badge/jwt-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-*(Familiar with: RxJS, Premiere Pro, Canva, PowerShell, Windows Terminal, Trello, GitHub)*
 
 ---
 
