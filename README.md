@@ -80,6 +80,6 @@ This cross-disciplinary background gives me an advantage in understanding enterp
 I am actively seeking full-time software engineering roles, technical collaborations, and open-source contributions. I work well in structured team environments and bring a high standard of documentation and code quality.
 If you are looking for an engineer who thinks carefully about systems, communicates clearly, and delivers reliable work — I would welcome a conversation.
 
-*   **Portfolio   :**  [naz-ahtamir.site](https://www.naz-ahtamir.site)
-*   **LinkedIn    :**  [Nasaruddin Ahtamir](https://www.linkedin.com/in/nasaruddin-st-86a593258)
-*   **Email       :**  nasaruddin.ahtamir@email.com
+*   **Portfolio :**  [naz-ahtamir.site](https://www.naz-ahtamir.site)
+*   **LinkedIn :**  [Nasaruddin Ahtamir](https://www.linkedin.com/in/nasaruddin-st-86a593258)
+*   **Email :**  nasaruddin.ahtamir@email.com
