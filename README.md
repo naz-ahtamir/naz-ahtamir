@@ -1,15 +1,10 @@
 # Nasaruddin Ahtamir
 
-**Software Engineer | Web Development | Systems Thinker**
+**Software Engineer | Full-Stack Web Development | Systems Thinker | OHS Expert-Certified**
 
-I am a Software Engineer with a foundation in systems auditing and compliance. Drawing from over a decade of professional experience in strategic management and operational safety, I approach software development with a rigorous focus on detail, logical structure, and scalable design. 
-
-My transition into tech is driven by a deep interest in building robust digital solutions that solve complex operational problems. I value minimalist, functional design and write code with the same meticulousness required in strict industrial audits.
-
-**Core Focus:**
-* Translating complex requirements into efficient, maintainable digital solutions.
-* Designing functional, minimalist user interfaces and robust backend architectures.
-* Continuous learning: currently completing an intensive software engineering program and expanding multilingual technical communication (English and Mandarin).
+I am a software engineer with a background in systems auditing and operational compliance, bringing over a decade of professional experience in strategic management and safety-critical environments. This foundation directly informs how I approach software development: with precision, structured thinking, and a strong emphasis on maintainable, scalable architecture.
+I transitioned into software engineering driven by a genuine interest in building digital systems that solve real operational problems. I value clean, functional design and write code with the same rigor I applied to industrial audits — every component serves a purpose, every decision is defensible.
+Currently completing an intensive 9-month software engineering program, deepening expertise in full-stack web development and expanding technical communication in English and Mandarin.
 
 ---
 
@@ -65,17 +60,25 @@ My transition into tech is driven by a deep interest in building robust digital 
 
 ---
 
+### Professional Background
+Before transitioning into software engineering, I spent over ten years working in strategic management and operational safety — roles that required systematic risk analysis, compliance auditing, and clear documentation under strict standards. This experience shaped a professional disposition that carries directly into engineering work: I approach codebases as systems that need to be understood holistically, not just patched at the surface.
+This cross-disciplinary background gives me an advantage in understanding enterprise requirements, communicating with non-technical stakeholders, and designing solutions that account for operational constraints from the start.
+
+---
+
 ### Current Engineering Focus
 
-*   Advancing full-stack web development capabilities through a structured, comprehensive 9-month software engineering program.
+*   Completing a structured full-stack software engineering program with emphasis on system design and production-grade practices.
 *   Building scalable application architectures utilizing modern frameworks (React/Next.js and Node environment).
-*   Integrating efficient cloud deployment pipelines and hosting workflows.
+*   Strengthening cloud deployment workflows and CI/CD pipeline integration.
+*   Expanding technical proficiency in Mandarin for professional communication
 
 ---
 
 ### Connect & Collaborate
 
-I am open to professional opportunities, technical discussions, and collaborations on open-source projects. 
+I am actively seeking full-time software engineering roles, technical collaborations, and open-source contributions. I work well in structured team environments and bring a high standard of documentation and code quality.
+If you are looking for an engineer who thinks carefully about systems, communicates clearly, and delivers reliable work — I would welcome a conversation.
 
 *   **Portfolio:** [naz-ahtamir.site](https://www.naz-ahtamir.site)
 *   **LinkedIn:** [Nasaruddin Ahtamir](https://www.linkedin.com/in/nasaruddin-st-86a593258)
