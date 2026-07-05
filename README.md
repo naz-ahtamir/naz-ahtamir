@@ -81,5 +81,5 @@ I am actively seeking full-time software engineering roles, technical collaborat
 If you are looking for an engineer who thinks carefully about systems, communicates clearly, and delivers reliable work — I would welcome a conversation.
 
 *   **Portfolio :**  [naz-ahtamir.site](https://www.naz-ahtamir.site)
-*   **LinkedIn :**  [Nasaruddin Ahtamir](https://www.linkedin.com/in/nasaruddin-st-86a593258)
+*   **LinkedIn :**  [nasaruddin ahtamir](https://www.linkedin.com/in/nasaruddin-st-86a593258)
 *   **Email :**  nasaruddin.ahtamir@gmail.com
