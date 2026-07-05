@@ -82,4 +82,4 @@ If you are looking for an engineer who thinks carefully about systems, communica
 
 *   **Portfolio :**  [naz-ahtamir.site](https://www.naz-ahtamir.site)
 *   **LinkedIn :**  [Nasaruddin Ahtamir](https://www.linkedin.com/in/nasaruddin-st-86a593258)
-*   **Email :**  nasaruddin.ahtamir@email.com
+*   **Email :**  nasaruddin.ahtamir@gmail.com
