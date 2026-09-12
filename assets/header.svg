@@ -1,14 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="900" height="100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 100" width="950" height="100">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&amp;display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&amp;display=swap');
     text {
-      font-family: 'Courier Prime', monospace;
+      font-family: 'Montserrat', sans-serif;
       font-weight: 700;
     }
   </style>
-  <text x="450" y="55" text-anchor="middle" dominant-baseline="middle"
-        font-size="17" fill="#171717"> 
-    // I am a Software Engineer. 
-    Let's build what others can't.
+  <text x="475" y="55" text-anchor="middle" dominant-baseline="middle"
+        font-size="17" fill="#171717">
+    // I am a Software Engineer. Let's build what others can't.
   </text>
 </svg>
