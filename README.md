@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./avatar.png" alt="Avatar" width="150" style="border-radius: 50%;">
+  <img src="./avatar.png" alt="Avatar" width="888" style="border-radius: 50%;">
 </p>
 
 <p align="center">
