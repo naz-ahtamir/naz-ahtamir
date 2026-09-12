@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <em>"I'am a software engineer. Let's build what others can't."</em>
+  <strong>I'am a software engineer. Let's build what others can't.<strong>
 </p>
