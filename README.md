@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./assets/avatar.png" alt="Avatar" width="222" style="border-radius: 50%;">
+  <img src="./assets/avatar.png" alt="Avatar" width="333" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%">
+  <img src="./assets/header.svg" alt="Header" width="50%">
 </p>
